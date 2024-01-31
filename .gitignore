@@ -1,0 +1,6 @@
+.terraform
+.terraform.lock.hcl
+terraform.tfstate*
+
+# file created in "local_example_01"
+my_file_1.txt
